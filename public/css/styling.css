@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background:silver;
+  }
+
+a{
+    background-color:silver ;
+    padding:0.2em 0.5em;
+    text-decoration: none;
+}
+  /* unvisited link */
+a:link {
+    color: green;
+  }
+
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: lightgreen;
+  }
+
+  /* Header/Blog Title */
+  .header {
+    padding: 25px;
+    font-size: 35px;
+    text-align: center;
+    background: white;
+  }
+
+  /* Add a card effect for articles */
+  .card {
+    background-color: white;
+    padding: 15px;
+    margin: 0px;
+  }
+
+
