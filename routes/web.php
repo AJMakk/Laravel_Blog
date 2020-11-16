@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\ArticleController;
-use App\Http\Controllers\CommentController;
 use Illuminate\Support\Facades\Route;
 
 

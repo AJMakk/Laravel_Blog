@@ -31,7 +31,7 @@
                 <input class="input" type="text" name="comment" id="comment" value="{{$article->comments}}">
             </div>
         </div>
-        <button type="submit" name="insert" value="insert" class="btn-link">insert comment.</button>
+        <button type="submit" name="insert" value="insert" class="btn-link">insert comment</button>
 
 @endsection
 
